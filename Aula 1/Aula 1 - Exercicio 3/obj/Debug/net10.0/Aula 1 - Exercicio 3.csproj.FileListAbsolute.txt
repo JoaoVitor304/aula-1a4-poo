@@ -1,0 +1,4 @@
+C:\Users\jv456\OneDrive\Documents\Orientado a objetos\Aula 1 - Exercicio 3\obj\Debug\net10.0\Aula 1 - Exercicio 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jv456\OneDrive\Documents\Orientado a objetos\Aula 1 - Exercicio 3\obj\Debug\net10.0\Aula 1 - Exercicio 3.AssemblyInfoInputs.cache
+C:\Users\jv456\OneDrive\Documents\Orientado a objetos\Aula 1 - Exercicio 3\obj\Debug\net10.0\Aula 1 - Exercicio 3.AssemblyInfo.cs
+C:\Users\jv456\OneDrive\Documents\Orientado a objetos\Aula 1 - Exercicio 3\obj\Debug\net10.0\Aula 1 - Exercicio 3.csproj.CoreCompileInputs.cache
