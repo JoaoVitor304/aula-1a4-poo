@@ -1,0 +1,14 @@
+C:\Users\jv456\OneDrive\Documents\Orientado a objetos\Aula 3\Aula 3 - Exercicio 1\bin\Debug\net10.0\Orientado a objetos.exe
+C:\Users\jv456\OneDrive\Documents\Orientado a objetos\Aula 3\Aula 3 - Exercicio 1\bin\Debug\net10.0\Orientado a objetos.deps.json
+C:\Users\jv456\OneDrive\Documents\Orientado a objetos\Aula 3\Aula 3 - Exercicio 1\bin\Debug\net10.0\Orientado a objetos.runtimeconfig.json
+C:\Users\jv456\OneDrive\Documents\Orientado a objetos\Aula 3\Aula 3 - Exercicio 1\bin\Debug\net10.0\Orientado a objetos.dll
+C:\Users\jv456\OneDrive\Documents\Orientado a objetos\Aula 3\Aula 3 - Exercicio 1\bin\Debug\net10.0\Orientado a objetos.pdb
+C:\Users\jv456\OneDrive\Documents\Orientado a objetos\Aula 3\Aula 3 - Exercicio 1\obj\Debug\net10.0\Orientado a objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jv456\OneDrive\Documents\Orientado a objetos\Aula 3\Aula 3 - Exercicio 1\obj\Debug\net10.0\Orientado a objetos.AssemblyInfoInputs.cache
+C:\Users\jv456\OneDrive\Documents\Orientado a objetos\Aula 3\Aula 3 - Exercicio 1\obj\Debug\net10.0\Orientado a objetos.AssemblyInfo.cs
+C:\Users\jv456\OneDrive\Documents\Orientado a objetos\Aula 3\Aula 3 - Exercicio 1\obj\Debug\net10.0\Orientado a objetos.csproj.CoreCompileInputs.cache
+C:\Users\jv456\OneDrive\Documents\Orientado a objetos\Aula 3\Aula 3 - Exercicio 1\obj\Debug\net10.0\Orientado a objetos.dll
+C:\Users\jv456\OneDrive\Documents\Orientado a objetos\Aula 3\Aula 3 - Exercicio 1\obj\Debug\net10.0\refint\Orientado a objetos.dll
+C:\Users\jv456\OneDrive\Documents\Orientado a objetos\Aula 3\Aula 3 - Exercicio 1\obj\Debug\net10.0\Orientado a objetos.pdb
+C:\Users\jv456\OneDrive\Documents\Orientado a objetos\Aula 3\Aula 3 - Exercicio 1\obj\Debug\net10.0\Orientado a objetos.genruntimeconfig.cache
+C:\Users\jv456\OneDrive\Documents\Orientado a objetos\Aula 3\Aula 3 - Exercicio 1\obj\Debug\net10.0\ref\Orientado a objetos.dll
