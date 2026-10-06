@@ -1,0 +1,14 @@
+C:\Users\jv456\OneDrive\Documents\Orientado a objetos\Aula 2 - Exercicio 1\obj\Debug\net10.0\Aula 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jv456\OneDrive\Documents\Orientado a objetos\Aula 2 - Exercicio 1\obj\Debug\net10.0\Aula 2.AssemblyInfoInputs.cache
+C:\Users\jv456\OneDrive\Documents\Orientado a objetos\Aula 2 - Exercicio 1\obj\Debug\net10.0\Aula 2.AssemblyInfo.cs
+C:\Users\jv456\OneDrive\Documents\Orientado a objetos\Aula 2 - Exercicio 1\obj\Debug\net10.0\Aula 2.csproj.CoreCompileInputs.cache
+C:\Users\jv456\OneDrive\Documents\Orientado a objetos\Aula 2 - Exercicio 1\bin\Debug\net10.0\Aula 2.exe
+C:\Users\jv456\OneDrive\Documents\Orientado a objetos\Aula 2 - Exercicio 1\bin\Debug\net10.0\Aula 2.deps.json
+C:\Users\jv456\OneDrive\Documents\Orientado a objetos\Aula 2 - Exercicio 1\bin\Debug\net10.0\Aula 2.runtimeconfig.json
+C:\Users\jv456\OneDrive\Documents\Orientado a objetos\Aula 2 - Exercicio 1\bin\Debug\net10.0\Aula 2.dll
+C:\Users\jv456\OneDrive\Documents\Orientado a objetos\Aula 2 - Exercicio 1\bin\Debug\net10.0\Aula 2.pdb
+C:\Users\jv456\OneDrive\Documents\Orientado a objetos\Aula 2 - Exercicio 1\obj\Debug\net10.0\Aula 2.dll
+C:\Users\jv456\OneDrive\Documents\Orientado a objetos\Aula 2 - Exercicio 1\obj\Debug\net10.0\refint\Aula 2.dll
+C:\Users\jv456\OneDrive\Documents\Orientado a objetos\Aula 2 - Exercicio 1\obj\Debug\net10.0\Aula 2.pdb
+C:\Users\jv456\OneDrive\Documents\Orientado a objetos\Aula 2 - Exercicio 1\obj\Debug\net10.0\Aula 2.genruntimeconfig.cache
+C:\Users\jv456\OneDrive\Documents\Orientado a objetos\Aula 2 - Exercicio 1\obj\Debug\net10.0\ref\Aula 2.dll
